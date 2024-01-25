@@ -396,7 +396,7 @@
 .gallery-item img {
   display: block;
   width: 100%;
-  transition: all 0.3s;
+  transition: all 0.2s;
 }
 
 .gallery-item img:hover {
